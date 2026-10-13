@@ -101,8 +101,7 @@ My goal is to build solutions that are practical, maintainable, and useful in re
 I'm open to collaborating on AI automation, SaaS products, and applied AI projects.
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/abhisainidev/)
-- **Portfolio:** [Explore my work](https://abhishek-portfolio-b7cc8.web.app/)
-- **Email:** abhisheksaini.work@gmail.com
+- **Portfolio:** [Explore my work](https://iamabhisheksaini.github.io/)
 
 If you're building an AI-powered product or looking to automate a business workflow, let's connect!
 
